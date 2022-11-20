@@ -11,31 +11,29 @@ function Footer(){
     return(
         <div>
             <h1 className="tituloanimales">
-                Mis animales favoritos en el mundo.
+                Empresas donde he trabajado
             </h1>
 
             <Carousel>
                 <Carousel.Item>
                     <img
                     className="d-block w-100"
-                    src="https://static.nationalgeographic.es/files/styles/image_3200/public/01-lion-populations-nationalgeographic_1777804.jpg?w=1900&h=1267"
+                    src="https://pbs.twimg.com/profile_images/1305868800479432704/n1Lw7igE_400x400.jpg"
                     alt="First slide"
                     />
                     <Carousel.Caption>
-                    <h3>Leon</h3>
-                    <p>El mayor significado para mi es liderazgo y luchar por su familia.</p>
+                    <h3>Colombianet</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                     className="d-block w-100"
-                    src="https://www.infobae.com/new-resizer/zrFk46opL6ETyF8a7q4CKywhAP4=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/RZ4H2BEABFENNEHB7ED4YZV5RY.jpg"
+                    src="https://conectamostuempresa.com/wp-content/uploads/2019/09/logoUnissubir.png"
                     alt="Second slide"
                     />
 
                     <Carousel.Caption>
-                    <h3>Elefante</h3>
-                    <p>Lo más representativo para mi es la estabilidad y fuerza.</p>
+                    <h3>Unniser</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -46,10 +44,8 @@ function Footer(){
                     />
 
                     <Carousel.Caption>
-                    <h3>buho</h3>
-                    <p>
-                        Para mi significa inteligencia.
-                    </p>
+                    <h3>Comdata</h3>
+                    
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -60,10 +56,7 @@ function Footer(){
                     />
 
                     <Carousel.Caption>
-                    <h3>Golden Retriever</h3>
-                    <p>
-                        Para mi es el significado de humildad y cuidado hacia los demas.
-                    </p>
+                    <h3>Emergia</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 </Carousel>
