@@ -60,7 +60,7 @@ function Footer(){
                     </Carousel.Caption>
                 </Carousel.Item>
                 </Carousel>
-                <h1 className="tituloempresas">Lista de empresas donde he trabajado</h1>
+                <h1 className="tituloempresas">Lista de empresas donde he trabajado.</h1>
                 <ListGroup>
                     <ListGroup.Item>Colombianet</ListGroup.Item>
                     <ListGroup.Item>Unisser</ListGroup.Item>
@@ -69,7 +69,7 @@ function Footer(){
                 </ListGroup>
 
 
-                <h1 className="tituloacordion">Mis Estudios</h1>
+                <h1 className="tituloacordion">Mis Estudios.</h1>
                 <Accordion defaultActiveKey="0">
                     <Accordion.Item eventKey="0">
                         <Accordion.Header>Bachiller</Accordion.Header>
