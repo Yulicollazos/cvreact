@@ -22,7 +22,7 @@ function Footer(){
                     alt="First slide"
                     />
                     <Carousel.Caption>
-                    <h3>Colombianet</h3>
+                    <h3>Colombianet.</h3>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
